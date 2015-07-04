@@ -944,25 +944,25 @@ div[style="margin-top: 6px; padding-right: 10px;"] {
 /** GREEN THEME **/
 
 .cl-green td.tcat {
-    background-color: #7ECB61 !important;
+    background-color: #201d28 !important;
 }
 
 .cl-green a:hover {
-    color: #A1FB80 !important;
+    color: #d8d8d8 !important;
 }
 
 .cl-green input.button:hover, .cl-green .button2:hover, .cl-green button2:hover, .cl-green .button:hover, .cl-green button:hover, .cl-green a.bitButton:hover, .cl-green input.bitButton:hover, .cl-green span.bitButton:hover {
-    background-color: #7ECB61 !important;
+    background-color: #201d28 !important;
     border: 0px !important;
     color: white !important;
 }
 
 .cl-green td.trow1 strong a:hover {
-    color: #A1FB80 !important;
+    color: #d8d8d8 !important;
 }
 
 .cl-green td.trow2 strong a:hover {
-    color: #A1FB80 !important;
+    color: #d8d8d8 !important;
 }
 
 .cl-green div.float_left.smalltext {
@@ -970,7 +970,7 @@ div[style="margin-top: 6px; padding-right: 10px;"] {
 }
 
 .cl-green div.menu ul:after {
-    background-color: #7ECB61 !important;
+    background-color: #201d28 !important;
 }
 
 /** ORANGE THEME **/
