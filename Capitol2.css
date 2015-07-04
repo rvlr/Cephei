@@ -314,11 +314,11 @@ div.pm_alert2 {
 }
 
 div.pm_alert a:hover {
-    color: #724a9e !important;
+    color: #d0ca2e !important;
 }
 
 div.pm_alert2 a:hover {
-    color: #61a859 !important;
+    color: #d0ca2e !important;
 }
 
 div.post_body {
@@ -397,7 +397,7 @@ div.menu ul li a {
 }
 
 div.menu ul li a:Hover {
-    color: #FFF !important;
+    color: #d0ca2e !important;
     background: none !important;
     border: none !important;
 }
@@ -518,7 +518,7 @@ tr {
 }
 
 ul.shadetabs li a:hover {
-    color: #ffffff !important;
+    color: #d0ca2e !important;
 }
 
 #panel strong {
@@ -557,7 +557,7 @@ span.smalltext.float_right {
 }
 
 span.button2 a:Hover {
-    color: #fff !important;
+    color: #d0ca2e !important;
 }
 
 div.smalltext {
@@ -733,11 +733,11 @@ td.thead {
 }
 
 td.trow2 strong a:hover {
-    color: #ffffff !important;
+    color: #d0ca2e !important;
 }
 
 a:hover {
-    color: #ffffff !important;
+    color: #d0ca2e !important;
 }
 
 span.smalltext {
@@ -759,7 +759,7 @@ div.navigation a {
 }
 
 div.navigation a:hover {
-    color: #eee !important;
+    color: #d0ca2e !important;
 }
 
 ul.shadetabs li a {
@@ -809,7 +809,7 @@ a.popup_item {
 a.popup_item:hover {
     background: #222 !important;
     border: none !important;
-    color: #FFF !important;
+    color: #d0ca2e !important;
 }
 
 div.popup_menu {
@@ -1107,7 +1107,7 @@ a.quick_jump {
 .star_rating, 
 .star_rating li a:hover, 
 .star_rating .current_rating {
-    background: url(http://i.imgur.com/X4YRP6q.png) left -1000px repeat-x !important;
+    background: url(http://i.imgur.com/x1FMQlA.png) left -1000px repeat-x !important;
     vertical-align: middle !important;
 }
 
